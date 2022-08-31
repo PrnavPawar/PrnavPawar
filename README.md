@@ -1,9 +1,4 @@
-### Hi there 👋
-### Watch my contribution graph get eaten by the snake 🐍
-
-<!-- platane/snk works, it just puts it on a new branch -->
-![PrnavPawar snake gif](https://github.com/PrnavPawar/PrnavPawar/blob/output/github-contribution-grid-snake.svg)
-
+### Hi there, Nice to meet you!👋
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -31,6 +26,12 @@ me.say_guten_tag()
 me.future_goal()
 
 ```
+### Technologies and Tools:
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c++)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 <!--
 **PrnavPawar/PrnavPawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,3 +47,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Watch my contribution graph get eaten by the snake 🐍:
+<!-- platane/snk works, it just puts it on a new branch -->
+![PrnavPawar snake gif](https://github.com/PrnavPawar/PrnavPawar/blob/output/github-contribution-grid-snake.svg)
+
