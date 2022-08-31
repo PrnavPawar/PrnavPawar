@@ -9,15 +9,26 @@
 # -*- coding: utf-8 -*-
 
 class ComputerScientist:
-    def __init__(self, name, programming_language):
+    def __init__(self):
         self.name = "Pranav Chandrakant Pawar"
-        self.programming_languages = ["Python", "C++", "Rust", "C"]
-        self.spoken_languages = ["Marathi", "Deutsch", "Hindi", "English"]
-    def say_guten_tag(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-        
+        self.code = ["Python", "C++", "C", "Rust"]
+        self.spoken_languages = ["Marathi", "Hindi", "English", "Deutsch"]
+        self.domain = {
+                        1: "Artificial Intelligence",
+                        2: "Web Development",
+                        3: "Blockchain Development",
+                        4: "Embedded Systems",
+                        5: "Robotics"
+       }
+    def future_goal(self) -> str:
+        return "To become a pioneer in Artificial Intelligence and Robotics"
+
+    def say_guten_tag(self) -> str:
+        return "Nice to meet you! thanks for visiting my GitHub profile, hope you find my work interesting."
+
 me = ComputerScientist()
 me.say_guten_tag()
+me.future_goal()
 
 ```
 
